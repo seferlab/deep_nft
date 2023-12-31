@@ -1,6 +1,6 @@
 **_`NFT Sales Characteristics And Price Prediction By Transfer Learning Visual Attributes`_**
 
-*_This is the repository for the "NFT Sales Characteristics And Price Prediction By Transfer Learning Visual Attributes" master thesis at Özyegin University. This repository serves the notebook files which include the code and results of the study.
+*This is the repository for the "NFT Sales Characteristics And Price Prediction By Transfer Learning Visual Attributes". This repository serves the notebook files which include the code and results of the study.
 
 ## *_Steps to Reproduce Our Results_*
 
