@@ -4,7 +4,7 @@
 
 *_This is the repository for the "NFT Sales Characteristics And Price Prediction By Transfer Learning Visual Attributes" master thesis at Özyegin University. This repository serves the notebook files which include the code and results of the study._**
 
-## *_Steps to Re-Produce Our Results_*
+## *_Steps to Reproduce Our Results_*
 
 *_- Clone the Repository to Your Local Machine_*
 
@@ -31,15 +31,6 @@ git clone https://github.com/seferlab/deep_nft.git
 *_- To obtain the all results of the paper, run the `NFT_Report.ipynb`.<br/>_*
 
 
+## Contact
 
-## *_Institution_*
-
-- **_[Ozyegin University](https://www.ozyegin.edu.tr/)_**
-
-## *_Thesis Members_*
-
-- **_[Mustafa Pala](https://github.com/mustafapala)_**<br/>
-
-## *_Thesis Advisor_*
-
-- **_[Assistant Prof. Emre Sefer](http://www.emresefer.com/)_**
+You can contact Emre Sefer (emre.sefer@ozyegin.edu.tr) or Mustafa Pala (mustafa.pala@ozu.edu.tr) if you have any questions about the implementation.
