@@ -26,7 +26,7 @@ git clone https://github.com/seferlab/deep_nft.git
 
 *_- To obtain the grid search results of the secondary sale classification for AdaBoost, RandomForest, and XGBoost run the `HyperParameter Tuning.ipynb`.<br/>_*
 
-*_- To obtain the all results of the paper, run the `NFT_Report.ipynb`.<br/>_*
+*_- To obtain primary sale price prediction results, run the `Primary Sale Price Prediction.ipynb`.<br/>_*
 
 
 ## Contact
